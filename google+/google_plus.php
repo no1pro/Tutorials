@@ -9,10 +9,10 @@
   // Begin the session
   session_start();
 // Declaring the variables required for authentication
-	$client_key = '';
-	$client_secret = '';
-	$api_key = '';
-	$redirect_uri = '';
+	$client_key = '500745582654-cc2j2ddhe9rk4u6pvlpcsqe7n9lkt3vk.apps.googleusercontent.com';
+	$client_secret = '7AYVgF8aZXxpmLUxUty-vpFa';
+	$api_key = 'AIzaSyAx6ZkAmae7ya_JTN_5dX0ZNMie_OB-9Vo';
+	$redirect_uri = 'https://code.google.com/oauthplayground';
 
 // Check if the authorization code is received or not !
 // Also, if the access token is received or not
